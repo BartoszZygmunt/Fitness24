@@ -24,5 +24,5 @@ export default defineConfig({
       partialDirectory: "./src/partials", // Path to partials
     }),
   ],
-  // base: "/Fitness24/",
+  base: "/Fitness24/",
 });
