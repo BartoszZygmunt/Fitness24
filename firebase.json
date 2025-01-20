@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "your-energy2",
+    "site": "your-energy3",
     "public": "public",
     "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
     "headers": [
