@@ -24,5 +24,5 @@ export default defineConfig({
       partialDirectory: "./src/partials", // Path to partials
     }),
   ],
-  base: "/final-project-advenced-js/",
+  base: "/Fitness24/",
 });
